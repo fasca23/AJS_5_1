@@ -1,1 +1,2 @@
 # Домашнее задание к лекции «Классы, наследование» - Классы, наследование
+[![Build status](https://ci.appveyor.com/api/projects/status/19jhcy5263ibny6c?svg=true)](https://ci.appveyor.com/project/fasca23/ajs-5-1)
